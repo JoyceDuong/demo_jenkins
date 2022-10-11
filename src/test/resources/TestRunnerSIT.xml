@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite parallel="false" name="Demo Site" >
+<parameter name="appUrl" value="https://admin-sit.sleek.mscomsec.com/"/>
+
+
+    <listeners>
+        <listener class-name="commons.MethodListener" />
+        <listener class-name="reportConfigs.AllureTestListener" />
+    </listeners>
+
+    <test name="Demo Site">
+        <parameter name="browserName" value="Firefox"/>
+        <classes>
+            <class name="testcases.DemoClass"/>
+        </classes>
+    </test>
+
+
+
+</suite>

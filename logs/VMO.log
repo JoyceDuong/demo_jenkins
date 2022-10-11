@@ -1,0 +1,270 @@
+[INFO ] [2022-10-05 15:51:11,902] Opening CHROME Browser
+[INFO ] [2022-10-05 15:51:21,262] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-05 15:51:21,263] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-05 15:51:47,992] Opening Firefox Browser
+[INFO ] [2022-10-05 15:54:03,484] Opening CHROME Browser
+[INFO ] [2022-10-05 15:54:03,484] Opening Firefox Browser
+[INFO ] [2022-10-05 15:54:24,559] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-05 15:54:24,559] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-05 15:54:24,940] Login 02: Enter Minhhieu@123 to password textbox
+[INFO ] [2022-10-05 15:54:25,012] Login 02: Enter Minhhieu@123 to password textbox
+[INFO ] [2022-10-05 15:54:25,436] Login 03: Click to Login Button
+[INFO ] [2022-10-05 15:54:25,667] Login 03: Click to Login Button
+[INFO ] [2022-10-05 15:54:41,223] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-05 15:54:41,255] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-05 15:55:03,800] Opening Firefox Browser
+[INFO ] [2022-10-05 15:55:03,800] Opening CHROME Browser
+[INFO ] [2022-10-05 15:55:21,873] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-05 15:55:21,873] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-05 15:55:22,103] Login 02: Enter Minhhieu@123 to password textbox
+[INFO ] [2022-10-05 15:55:22,120] Login 02: Enter Minhhieu@123 to password textbox
+[INFO ] [2022-10-05 15:55:22,276] Login 03: Click to Login Button
+[INFO ] [2022-10-05 15:55:22,296] Login 03: Click to Login Button
+[INFO ] [2022-10-05 15:55:37,981] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-05 15:55:38,015] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-06 09:43:01,391] Opening CHROME Browser
+[INFO ] [2022-10-06 09:43:01,391] Opening Firefox Browser
+[INFO ] [2022-10-06 09:50:33,538] Opening Firefox Browser
+[INFO ] [2022-10-06 09:50:41,449] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-06 09:50:41,615] Login 02: Enter Minhhieu@123 to password textbox
+[INFO ] [2022-10-06 09:50:41,747] Login 03: Click to Login Button
+[INFO ] [2022-10-06 09:50:42,240] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-06 09:53:41,531] Opening Firefox Browser
+[INFO ] [2022-10-06 09:53:52,041] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-06 09:53:53,719] Login 02: Enter Minhhieu@123 to password textbox
+[INFO ] [2022-10-06 09:53:53,852] Login 03: Click to Login Button
+[INFO ] [2022-10-06 09:53:54,319] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-06 09:53:58,681] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-06 09:53:58,968] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-06 09:53:59,363] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-06 09:54:00,716] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-06 09:54:01,052] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-06 09:54:02,688] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-06 09:54:02,982] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-06 09:54:03,053]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-06 09:54:03,055] Buy_Package 09: Select Add Nominee Director as Director 
+[INFO ] [2022-10-06 09:54:03,347] Buy_Package 10: Click on Next button
+[INFO ] [2022-10-06 09:54:03,737] Buy_Package 11: Click on Cart
+[INFO ] [2022-10-06 09:54:04,028] Buy_Package 12: Verify List items in cart
+[INFO ] [2022-10-06 09:54:09,080] Buy_Package 13: Click on Cart
+[INFO ] [2022-10-06 09:54:09,379] Buy_Package 14: Skip Accounting Step
+[INFO ] [2022-10-06 09:54:09,718] Buy_Package 15: Click on Confirm button 
+[INFO ] [2022-10-06 09:54:13,015] Buy_Package 16: Fill out company admin from excel file 
+[INFO ] [2022-10-06 09:56:35,010] Opening CHROME Browser
+[INFO ] [2022-10-06 09:56:43,600] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-06 09:56:44,408] Login 02: Enter Minhhieu@123 to password textbox
+[INFO ] [2022-10-06 09:56:44,640] Login 03: Click to Login Button
+[INFO ] [2022-10-06 09:56:44,894] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-06 09:56:50,882] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-06 09:56:50,996] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-06 09:56:51,185] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-06 09:56:59,430] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-06 09:56:59,617] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-06 09:57:00,863] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-06 09:57:00,976] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-06 09:57:01,082]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-06 09:57:01,085] Buy_Package 09: Select Add Nominee Director as Director 
+[INFO ] [2022-10-06 09:57:01,205] Buy_Package 10: Click on Next button
+[INFO ] [2022-10-06 09:57:01,396] Buy_Package 11: Click on Cart
+[INFO ] [2022-10-06 09:57:01,497] Buy_Package 12: Verify List items in cart
+[INFO ] [2022-10-06 09:57:06,597] Buy_Package 13: Click on Cart
+[INFO ] [2022-10-06 09:57:06,689] Buy_Package 14: Skip Accounting Step
+[INFO ] [2022-10-06 09:57:06,850] Buy_Package 15: Click on Confirm button 
+[INFO ] [2022-10-06 09:57:09,999] Buy_Package 16: Fill out company admin from excel file 
+[INFO ] [2022-10-06 10:20:40,692] Opening Firefox Browser
+[INFO ] [2022-10-06 10:20:52,475] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-06 10:21:17,728] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-06 15:10:31,431] Opening Firefox Browser
+[INFO ] [2022-10-06 15:10:43,021] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-06 15:10:44,680] Login 02: Enter null to password textbox
+[INFO ] [2022-10-06 15:10:44,962] Login 03: Click to Login Button
+[INFO ] [2022-10-06 15:10:45,470] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-06 15:11:19,294] Opening Firefox Browser
+[INFO ] [2022-10-07 09:41:32,825] Opening Firefox Browser
+[INFO ] [2022-10-07 09:41:43,695] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-07 09:41:45,523] Login 02: Enter null to password textbox
+[INFO ] [2022-10-07 09:41:45,648] Login 03: Click to Login Button
+[INFO ] [2022-10-07 09:41:46,103] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-07 09:41:51,682] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-07 09:41:52,014] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-07 09:41:52,406] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-07 09:41:54,313] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-07 09:41:54,815] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-07 09:41:56,442] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-07 09:41:56,734] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-07 09:41:56,802]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-07 09:41:56,805] Buy_Package 09: Select Add Nominee Director as Director 
+[INFO ] [2022-10-07 09:41:57,099] Buy_Package 10: Click on Next button
+[INFO ] [2022-10-07 09:41:57,470] Buy_Package 11: Click on Cart
+[INFO ] [2022-10-07 09:41:57,799] Buy_Package 12: Verify List items in cart
+[INFO ] [2022-10-07 09:42:02,859] Buy_Package 13: Click on Cart
+[INFO ] [2022-10-07 09:42:03,159] Buy_Package 14: Skip Accounting Step
+[INFO ] [2022-10-07 09:42:03,517] Buy_Package 15: Click on Confirm button 
+[INFO ] [2022-10-07 09:42:06,834] Buy_Package 16: Fill out company admin from excel file 
+[INFO ] [2022-10-07 14:48:51,751] Opening Firefox Browser
+[INFO ] [2022-10-07 14:49:03,643] Login 01: Enter joyce.duong@sleek.comto email textbox
+[INFO ] [2022-10-07 14:49:06,379] Login 02: Enter Minhhieu@123 to password textbox
+[INFO ] [2022-10-07 14:49:06,500] Login 03: Click to Login Button
+[INFO ] [2022-10-07 14:49:06,991] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-07 14:49:11,837] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-07 14:49:12,130] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-07 14:49:12,550] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-07 14:49:14,569] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-07 14:49:15,061] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-07 14:49:16,730] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-07 14:49:17,009] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-07 14:51:50,852] Opening Firefox Browser
+[INFO ] [2022-10-07 14:52:05,718] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-07 14:52:06,818] Login 02: Enter null to password textbox
+[INFO ] [2022-10-07 14:52:06,948] Login 03: Click to Login Button
+[INFO ] [2022-10-07 14:52:07,459] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-07 14:52:12,209] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-07 14:52:12,519] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-07 14:52:12,904] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-07 14:52:14,367] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-07 14:52:14,714] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-07 14:52:16,352] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-07 14:52:16,645] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-07 14:56:57,577] Opening Firefox Browser
+[INFO ] [2022-10-07 14:57:07,828] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-07 14:57:10,418] Login 02: Enter null to password textbox
+[INFO ] [2022-10-07 14:57:10,515] Login 03: Click to Login Button
+[INFO ] [2022-10-07 14:57:10,996] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-07 14:57:15,661] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-07 14:57:15,967] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-07 14:57:16,369] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-07 14:57:18,027] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-07 14:57:18,391] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-07 14:57:20,049] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-07 14:57:20,328] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-07 14:57:20,414]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-07 14:57:20,419] Buy_Package 09: Select Add Nominee Director as Director 
+[INFO ] [2022-10-07 14:57:20,732] Buy_Package 10: Click on Next button
+[INFO ] [2022-10-07 14:57:21,134] Buy_Package 11: Click on Cart
+[INFO ] [2022-10-07 14:57:21,455] Buy_Package 12: Verify List items in cart
+[INFO ] [2022-10-07 14:57:26,508] Buy_Package 13: Click on Cart
+[INFO ] [2022-10-07 14:57:26,804] Buy_Package 14: Skip Accounting Step
+[INFO ] [2022-10-07 14:57:27,141] Buy_Package 15: Click on Confirm button 
+[INFO ] [2022-10-07 14:57:30,462] Buy_Package 16: Fill out company admin from excel file 
+[INFO ] [2022-10-07 15:00:35,029] Opening Firefox Browser
+[INFO ] [2022-10-07 15:00:44,634] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-07 15:01:00,214] Login 02: Enter null to password textbox
+[INFO ] [2022-10-07 15:01:00,334] Login 03: Click to Login Button
+[INFO ] [2022-10-07 15:01:00,655] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-07 15:01:15,990] Opening Firefox Browser
+[INFO ] [2022-10-07 15:01:25,515] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-07 15:01:29,680] Login 02: Enter null to password textbox
+[INFO ] [2022-10-07 15:01:29,788] Login 03: Click to Login Button
+[INFO ] [2022-10-07 15:01:30,255] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-07 15:01:34,839] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-07 15:01:35,138] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-07 15:01:35,531] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-07 15:01:37,387] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-07 15:01:37,785] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-07 15:01:39,410] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-07 15:01:39,695] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-07 15:01:39,769]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-07 15:01:39,772] Buy_Package 09: Select Add Nominee Director as Director 
+[INFO ] [2022-10-07 15:01:40,081] Buy_Package 10: Click on Next button
+[INFO ] [2022-10-07 15:01:40,443] Buy_Package 11: Click on Cart
+[INFO ] [2022-10-07 15:01:40,734] Buy_Package 12: Verify List items in cart
+[INFO ] [2022-10-07 15:01:45,795] Buy_Package 13: Click on Cart
+[INFO ] [2022-10-07 15:01:46,097] Buy_Package 14: Skip Accounting Step
+[INFO ] [2022-10-07 15:01:46,462] Buy_Package 15: Click on Confirm button 
+[INFO ] [2022-10-07 15:01:49,782] Buy_Package 16: Fill out company admin from excel file 
+[INFO ] [2022-10-07 15:11:17,404] Opening Chrome Browser
+[INFO ] [2022-10-07 15:11:27,965] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-07 15:11:29,442] Login 02: Enter null to password textbox
+[INFO ] [2022-10-07 15:11:29,635] Login 03: Click to Login Button
+[INFO ] [2022-10-07 15:11:29,914] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-07 15:11:56,371] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-07 15:11:56,497] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-07 15:11:56,698] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-07 15:11:59,246] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-07 15:11:59,445] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-07 15:12:00,733] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-07 15:12:00,860] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-07 15:12:00,942]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-07 15:12:00,943] Buy_Package 09: Select Add Nominee Director as Director 
+[INFO ] [2022-10-07 15:12:01,096] Buy_Package 10: Click on Next button
+[INFO ] [2022-10-07 15:12:01,281] Buy_Package 11: Click on Cart
+[INFO ] [2022-10-07 15:12:01,528] Buy_Package 12: Verify List items in cart
+[INFO ] [2022-10-07 15:12:06,652] Buy_Package 13: Click on Cart
+[INFO ] [2022-10-07 15:12:06,774] Buy_Package 14: Skip Accounting Step
+[INFO ] [2022-10-07 15:12:06,937] Buy_Package 15: Click on Confirm button 
+[INFO ] [2022-10-07 15:12:10,082] Buy_Package 16: Fill out company admin from excel file 
+[INFO ] [2022-10-08 21:48:57,339] Opening Chrome Browser
+[INFO ] [2022-10-08 21:49:05,879] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-08 21:49:07,287] Login 02: Enter null to password textbox
+[INFO ] [2022-10-08 21:49:07,569] Login 03: Click to Login Button
+[INFO ] [2022-10-08 21:49:07,979] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-08 21:49:24,260] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-08 21:49:24,412] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-08 21:49:24,638] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-08 21:49:28,010] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-08 21:49:28,300] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-08 21:49:29,763] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-08 21:49:29,910] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-08 21:49:30,051]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-08 21:49:30,058] Buy_Package 09: Select Add Nominee Director as Director 
+[INFO ] [2022-10-08 21:49:30,212] Buy_Package 10: Click on Next button
+[INFO ] [2022-10-08 21:49:30,419] Buy_Package 11: Click on Cart
+[INFO ] [2022-10-08 21:49:30,562] Buy_Package 12: Verify List items in cart
+[INFO ] [2022-10-08 21:49:35,719] Buy_Package 13: Click on Cart
+[INFO ] [2022-10-08 21:49:35,872] Buy_Package 14: Skip Accounting Step
+[INFO ] [2022-10-08 21:49:36,104] Buy_Package 15: Click on Confirm button 
+[INFO ] [2022-10-08 21:49:39,253] Buy_Package 16: Fill out company admin from excel file 
+[INFO ] [2022-10-08 21:49:42,246]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-08 21:53:32,049] Opening Chrome Browser
+[INFO ] [2022-10-08 21:53:49,464] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-08 21:53:49,837] Login 02: Enter null to password textbox
+[INFO ] [2022-10-08 21:53:50,169] Login 03: Click to Login Button
+[INFO ] [2022-10-08 21:53:50,672] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-08 21:53:56,300] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-08 21:53:56,446] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-08 21:53:56,689] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-08 21:53:59,745] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-08 21:54:00,041] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-08 21:54:01,400] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-08 21:54:01,539] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-08 21:54:01,651]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-10-08 21:54:01,657] Buy_Package 09: Select Add Nominee Director as Director 
+[INFO ] [2022-10-08 21:54:01,853] Buy_Package 10: Click on Next button
+[INFO ] [2022-10-08 21:54:02,138] Buy_Package 11: Click on Cart
+[INFO ] [2022-10-08 21:54:02,291] Buy_Package 12: Verify List items in cart
+[INFO ] [2022-10-08 21:54:07,435] Buy_Package 13: Click on Cart
+[INFO ] [2022-10-08 21:54:07,592] Buy_Package 14: Skip Accounting Step
+[INFO ] [2022-10-08 21:59:41,812] Opening Chrome Browser
+[INFO ] [2022-10-08 21:59:48,715] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-08 21:59:49,629] Login 02: Enter null to password textbox
+[INFO ] [2022-10-08 21:59:49,957] Login 03: Click to Login Button
+[INFO ] [2022-10-08 21:59:50,381] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-10 17:25:21,004] Opening Chrome Browser
+[INFO ] [2022-10-10 17:29:07,286] Opening Chrome Browser
+[INFO ] [2022-10-10 17:30:24,041] Opening Chrome Browser
+[INFO ] [2022-10-10 17:32:30,964] Opening Chrome Browser
+[INFO ] [2022-10-10 17:32:41,773] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-10 17:32:43,256] Login 02: Enter null to password textbox
+[INFO ] [2022-10-10 17:32:43,462] Login 03: Click to Login Button
+[INFO ] [2022-10-10 17:32:43,789] Buy_Package 01: Click to Buy Button
+[INFO ] [2022-10-10 17:32:48,440] Buy_Package 02: Select Incorporate a new company in SingaporeService
+[INFO ] [2022-10-10 17:32:48,554] Buy_Package 03: Click to Start Now button
+[INFO ] [2022-10-10 17:32:48,738] Buy_Package 04: Select company address type isRegistered Address & Digital Mailroom Service
+[INFO ] [2022-10-10 17:32:50,809] Buy_Package 05: Click on Next button
+[INFO ] [2022-10-10 17:32:51,023] Buy_Package 06: Select Number of shareholder
+[INFO ] [2022-10-10 17:32:52,517] Buy_Package 07: Click on Next button
+[INFO ] [2022-10-10 17:32:52,675] Buy_Package 08: Click on Next button
+[INFO ] [2022-10-10 17:32:52,754]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-10-10 17:32:52,759] Buy_Package 09: Select Add Nominee Director as Director 
+[INFO ] [2022-10-10 17:32:52,969] Buy_Package 10: Click on Next button
+[INFO ] [2022-10-10 17:32:53,217] Buy_Package 11: Click on Cart
+[INFO ] [2022-10-10 17:32:53,383] Buy_Package 12: Verify List items in cart
+[INFO ] [2022-10-10 17:32:58,493] Buy_Package 13: Click on Cart
+[INFO ] [2022-10-10 17:32:58,587] Buy_Package 14: Skip Accounting Step
+[INFO ] [2022-10-10 17:32:58,760] Buy_Package 15: Click on Confirm button 
+[INFO ] [2022-10-10 17:33:01,902] Buy_Package 16: Fill out company admin from excel file 
+[INFO ] [2022-10-10 20:43:52,177] Opening Chrome Browser
+[INFO ] [2022-10-10 20:44:07,620] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-10 20:44:11,668] Login 02: Enter null to password textbox
+[INFO ] [2022-10-10 20:44:12,011] Login 03: Click to Login Button
+[INFO ] [2022-10-10 20:44:12,494] Buy_Package 01: Click to Buy Button

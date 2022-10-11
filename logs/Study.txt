@@ -1,0 +1,5 @@
+[INFO ] [2022-10-10 20:43:52,177] Opening Chrome Browser
+[INFO ] [2022-10-10 20:44:07,620] Login 01: Enter nullto email textbox
+[INFO ] [2022-10-10 20:44:11,668] Login 02: Enter null to password textbox
+[INFO ] [2022-10-10 20:44:12,011] Login 03: Click to Login Button
+[INFO ] [2022-10-10 20:44:12,494] Buy_Package 01: Click to Buy Button

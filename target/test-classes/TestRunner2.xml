@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite parallel="false" name="Demo Site" >
+<parameter name="environment" value="STG"/>
+
+
+    <listeners>
+        <listener class-name="commons.MethodListener" />
+        <listener class-name="reportConfigs.AllureTestListener" />
+    </listeners>
+
+    <test name="Demo Site">
+        <parameter name="browserName" value="Chrome"/>
+        <classes>
+            <class name="testcases.DemoClass2"/>
+        </classes>
+    </test>
+
+
+
+</suite>
